@@ -6,6 +6,11 @@ http://flight-manual.atom.io/
 
 https://css-tricks.com/video-screencasts/129-emmet-awesome/
 
+sublime text:
+
+https://sublimetextbook.com/
+
+http://wesbos.com/category/sublime-text/
 
 command line/bash:
 
