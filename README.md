@@ -47,3 +47,7 @@ Flexbox:
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 https://css-tricks.com/video-screencasts/131-tinkering-flexbox/
+
+Other skills:
+
+https://gumroad.com/l/beyondcode
