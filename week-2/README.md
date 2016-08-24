@@ -1,3 +1,15 @@
+
+## Announcement!
+
+Git commands covered in [this project](https://www.codecademy.com/en/courses/learn-git/projects/js-homework) (part of the week 2 curriculum)
+
+`git clone`
+`git push`
+
+Are _not_ taught in the interactive lessons listed on the curriculum page.
+
+To learn about these commands, as well as a few others that will be useful this week, put aside ~30 minutes to go through [Learn Git - Git Teamwork](https://www.codecademy.com/en/courses/learn-git/lessons/git-teamwork/exercises/remotes?action=lesson_resume)
+
 ## git it:
 
 http://learngitbranching.js.org/
