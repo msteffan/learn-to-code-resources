@@ -25,3 +25,15 @@ It can be hard to remember all of the HTML elements—but never fear! We've comp
 [HTML for Beginners Cheatsheet](http://theblogstylist.com/cheat/html/)
 
 [Wired Magazine's HTML Cheatsheet](http://www.wired.com/2010/02/html_cheatsheet/)
+
+## Bootstrap
+
+[Bootstrap documentation](http://getbootstrap.com/getting-started/)
+
+[Bootply](http://www.bootply.com/) — Get familiar with Bootstrap by playing with this interactive editor. You won't write much code, but it may help you get the hang of how the built-in classes work.
+
+[Built With Bootstrap](http://builtwithbootstrap.com/) — When we say Bootstrap is flexible, _we mean it!_ Check out these examples of real-world sites that all are built with Bootstrap.
+
+[Bootstrap Cheatsheet by Hacker Themes](https://hackerthemes.com/bootstrap-cheatsheet/) — An interactive cheatsheet.
+
+[Single-page PDF Bootstrap Cheatsheet](https://dresssed.s3.amazonaws.com/bootstrap_cheatsheet.pdf)
