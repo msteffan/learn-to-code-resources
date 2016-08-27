@@ -30,3 +30,5 @@ When in doubt: ask GitHub. Here's GitHub's list of its [best Git resources](http
 [GitRef — an official git reference; kind of like the documentation for basic git commands](http://gitref.org/)
 
 If you want to understand what's going on "under the hood" with git, check out this [well-written article](https://codewords.recurse.com/issues/two/git-from-the-inside-out). It's technical, but well worth the read.
+
+["Aha Moments When Learning Git"](https://betterexplained.com/articles/aha-moments-when-learning-git/)
