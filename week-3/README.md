@@ -37,3 +37,7 @@ It can be hard to remember all of the HTML elements—but never fear! We've comp
 [Bootstrap Cheatsheet by Hacker Themes](https://hackerthemes.com/bootstrap-cheatsheet/) — An interactive cheatsheet.
 
 [Single-page PDF Bootstrap Cheatsheet](https://dresssed.s3.amazonaws.com/bootstrap_cheatsheet.pdf)
+
+[What Is Bootstrap and How Do I Use It?](https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/)
+
+An in-depth look at the [boostrap grid system](http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works)
