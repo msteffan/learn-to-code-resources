@@ -25,8 +25,12 @@ To take things a step further, checkout this [intermediate CSS tutorial.](http:/
 
 As with HTML, HTML Dog is a great resource for [intermediate & advanced CSS.](http://www.htmldog.com/guides/css/intermediate/layout/)
 
-### Flexbox:
+### Flexbox
 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+[CSS Tricks' "Guide to Flexbox"](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) is one of the most authoritative resources out there explaining what flexbox is and how to use it.
 
-https://css-tricks.com/video-screencasts/131-tinkering-flexbox/
+CSS Tricks also offers [this helpful screencast](https://css-tricks.com/video-screencasts/131-tinkering-flexbox/) if you prefer to learn via video tutorials.
+
+[Flexbox In 5](http://flexboxin5.com/)
+
+
