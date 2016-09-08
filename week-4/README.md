@@ -17,6 +17,12 @@ We can modify the stacking context of our divs using a property called *z-index*
 
 ### Tutorials & Links
 
+A list of all named CSS colors and their hexidecimal equivalents, [via CSS Tricks](https://css-tricks.com/snippets/css/named-colors-and-hex-equivalents/)
+
+Need a cool color scheme? We recommend checking out [Coolors.co](https://coolors.co/app) Generate a color scheme, lock any colors you like, and then press the space bar to generate other coordinating colors.
+
+Free fonts available from [Google Fonts](https://fonts.google.com/). To learn how to use a Google font, re-watch the first seminar on CSS; the process is covered there in detail. 
+
 Highly recommend this tutorial on layouts, called [Learn Layout.](http://learnlayout.com/) It will help clarify each of the different CSS positions, how to use them, and how they cause elements to interact with each other. There's also a section on Flexbox if you want to get more advanced.
 
 An introductory CSS tutorial, from [Mozilla Developer Nework](https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials)
