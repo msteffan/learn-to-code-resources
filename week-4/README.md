@@ -39,4 +39,12 @@ CSS Tricks also offers [this helpful screencast](https://css-tricks.com/video-sc
 
 [Flexbox In 5](http://flexboxin5.com/)
 
+#### Codepen Visuals
+These examples are visual aids for understanding how flex properties behave differently depending on how `flex-direction` is set on the flex container. 
+
+[flex-direction: row](http://codepen.io/danasselin/full/JRYKxN/)
+
+[flex-direction: column](http://codepen.io/danasselin/full/KgdgaV/)
+
+
 
