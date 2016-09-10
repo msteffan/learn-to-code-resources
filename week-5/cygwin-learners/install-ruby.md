@@ -31,7 +31,7 @@ The next prompt will ask if you'd like to resolve ruby dependencies. Yes, yes yo
 
 ![resolve-ruby-dependencies](img/cygwin-3-accept-dependencies.png)
 
-### STEP 5:
+### STEP 5: Install Ruby
 
 Let Cygwin do its thing and install ruby ...
 
@@ -39,7 +39,7 @@ Let Cygwin do its thing and install ruby ...
 
 **NOTE**: if Cygwin is open, the installer may prompt you to _kill_ or _stop_ processes which are interfering with the installation. Choose _Yes_.
 
-### STEP 6:
+### STEP 6: Verify that Ruby is in fact installed
 
 Launch your Cygwin application and enter `ruby -v` on the command line. Your output should look like this:
 
@@ -48,3 +48,7 @@ ruby 2.2.5p319 (2016-04-26 revision 54774) [i386-cygwin]
 ```
 
 ![verify-ruby-install](img/cygwin-5-verify-install.png)
+
+### STEP 7: Rejoice
+
+![rejoicing-bart](img/bart.gif)
