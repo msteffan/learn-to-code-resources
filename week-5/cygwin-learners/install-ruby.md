@@ -18,4 +18,4 @@ Continue through each window prompt ...
 
  ... until you hit _Select Packages._ Here search for _ruby_ and then select _Interpreters_.  
 
- ![cygwin-choose-ruby](img/cygwin-1-interpreters.png) 
+ ![cygwin-choose-ruby](img/cygwin-1-interpreters.png)
