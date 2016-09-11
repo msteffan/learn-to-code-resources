@@ -25,7 +25,7 @@ Your computer will ask you if you want to allow this installation. _Yes_, you do
 
 Cygwin will start installing Sass ...
 
-![cygwin-installing-sass](img/cygwin-6-gem-install-sass)
+![cygwin-installing-sass](img/cygwin-6-gem-install-sass.png)
 
 When the install is complete, Cygwin will output something like:
 
