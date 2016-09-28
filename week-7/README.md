@@ -18,7 +18,13 @@ This week we'll introduce you to some new terms. Here's an overview of what they
 
 For a thorough introduction to vanilla JavaScript, checkout the [JavaScript Basics explainer/tutorial, via Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-A list of all of your common (and even some uncommon)[HTML Events](http://www.w3schools.com/jsref/dom_obj_event.asp)
+A list of all of your common (and even some uncommon) [HTML Events](http://www.w3schools.com/jsref/dom_obj_event.asp)
+
+Get the link to [jQuery on a CDN](https://code.jquery.com/) or download it [here](https://jquery.com/download/).
+
+jQuery Docs: A great resource for all of the [basic jQuery methods](https://api.jquery.com/). 
+
+jQuery Docs: [Events Tutorial](http://learn.jquery.com/events/)
 
 jQuery is a library that sits on top of JavaScript and gives you access to many different methods that streamline the process of writing JavaScript. But there are some cases where jQuery could actually detract from the performance of your site, and it would behoove you to "go vanilla." [You Might Not Need jQuery](http://youmightnotneedjquery.com/) has a list of the basic jQuery methods and their vanilla counterparts; looking at it side by side, you realize that vanilla JS isn't so scary after all!
 
