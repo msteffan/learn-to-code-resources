@@ -4,7 +4,7 @@
 
 This week we'll introduce you to some new terms. Here's an overview of what they mean:
 
-*Vanilla JS*: Vanilla JS or even just "vanilla" refers to regular, plain ol' JavaScript (as opposed to jQuery, which we'll get to in a second). JavaScript is a programming language that is built into your browser, so it can interpret your programs and run the code when the user loads a page. Vanilla JS is just JavaScript.
+*_Vanilla JS_*: Vanilla JS or even just "vanilla" refers to regular, plain ol' JavaScript (as opposed to jQuery, which we'll get to in a second). JavaScript is a programming language that is built into your browser, so it can interpret your programs and run the code when the user loads a page. Vanilla JS is just JavaScript.
 
 *jQuery*: jQuery is a JavaScript library that lets us "do more and write less" JavaScript. It needs to be included as an external script in your HTML file in order to run. When you include it in your project code, jQuery provides a "wrapper" around vanilla JS, giving you access to different jQuery methods that simplify their vanilla counterparts.
 
