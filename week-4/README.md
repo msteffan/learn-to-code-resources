@@ -1,3 +1,6 @@
+# General CSS resources
+
+http://devdocs.io/css/
 
 ## CSS/layouts:
 
